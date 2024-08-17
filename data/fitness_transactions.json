@@ -1,0 +1,52 @@
+[
+    {
+        "transaction_id": "1",
+        "amount": 100,
+        "item": "Treadmill"
+    },
+    {
+        "transaction_id": "2",
+        "amount": 127,
+        "item": "Smart Weighing Scale"
+    },
+    {
+        "transaction_id": "1113",
+        "amount": 138,
+        "item": "Fitness Tracker"
+    },
+    {
+        "transaction_id": "1114",
+        "amount": 178,
+        "item": "Smart Water Bottle"
+    },
+    {
+        "transaction_id": "1115",
+        "amount": 200,
+        "item": "Yoga Mat"
+    },
+    {
+        "transaction_id": "1116",
+        "amount": 217,
+        "item": "Exercise Bike"
+    },
+    {
+        "transaction_id": "1117",
+        "amount": 250,
+        "item": "Rowing Machine"
+    },
+    {
+        "transaction_id": "118",
+        "amount": 272,
+        "item": "Resistance Bands"
+    },
+    {
+        "transaction_id": "119",
+        "amount": 292,
+        "item": "Smart Jump Rope"
+    },
+    {
+        "transaction_id": "110",
+        "amount": 329,
+        "item": "Smart Gym Mirror"
+    }
+]
